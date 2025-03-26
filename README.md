@@ -20,7 +20,7 @@
 - [ ] Chapter 9: Design and Refactor Your Applications
 - [ ] Chapter 10: Render Diagrams Using Native Support
 - [ ] Chapter 11: Create a Static Site with Mermaid Diagrams
-- [ ] Chapter 12: What You’ve Learned
+- [x] Chapter 12: What You’ve Learned
 - [ ] Bibliography
 
 
