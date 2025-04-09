@@ -19,7 +19,7 @@
 - [ ] Chapter 8: Visualize Code Flows
 - [ ] Chapter 9: Design and Refactor Your Applications
 - [ ] Chapter 10: Render Diagrams Using Native Support
-- [ ] Chapter 11: Create a Static Site with Mermaid Diagrams
+- [x] Chapter 11: Create a Static Site with Mermaid Diagrams
 - [x] Chapter 12: What You’ve Learned
 - [ ] Bibliography
 
