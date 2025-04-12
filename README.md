@@ -11,7 +11,7 @@
 - [x] Introduction
 - [x] Chapter 1: Document Your Domain
 - [x] Chapter 2: Enhance Your Domain Model
-- [ ] Chapter 3: Visualize Application and User Flows
+- [x] Chapter 3: Visualize Application and User Flows
 - [ ] Chapter 4: Model Your Architecture
 - [ ] Chapter 5: Detail Your System’s Containers
 - [ ] Chapter 6: Structure Your Components and Code
